@@ -52,5 +52,6 @@ public class Libro {
    public float getvaloracion(){
        return valoracion;
    }
+   public void amosar(String titulo, String autor, int año, short numPaginas, float valoracion){};
 }
 

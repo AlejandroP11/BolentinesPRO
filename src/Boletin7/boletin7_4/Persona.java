@@ -7,9 +7,9 @@ import java.util.Scanner;
  *
  * @author dam1
  */
-public class Ejercicio4 {
+public class Persona{
     Scanner sc;
-    public void darDatos(){
+    public void comparar(){
         String nombreA=leerNombre();
         float pesoA=leerPeso();
         String nombreB=leerNombre();

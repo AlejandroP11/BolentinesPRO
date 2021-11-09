@@ -1,5 +1,5 @@
 
-package boletin3_5;
+package boletin3_5.java;
 
 import java.util.Scanner;
 
@@ -7,7 +7,7 @@ import java.util.Scanner;
  *
  * @author dam1
  */
-public class Boletin3_5 {
+class Boletin3_5 {
 
     public static void main(String[] args) {
         Scanner sc=new Scanner(System.in);

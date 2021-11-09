@@ -10,9 +10,9 @@ import java.util.Scanner;
 public class Boletin6 {
 
     public static void main(String[] args) {
-       //Coche coche1 = new Coche();
+        Coche coche1 = new Coche();
         Scanner sc = new Scanner(System.in);
-        /*System.out.println("Ingrese la aceleración del coche: ");
+        System.out.println("Ingrese la aceleración del coche: ");
         int a= sc.nextInt();
         coche1.acelerar(a);
         System.out.println("La velocidad del coche es: "+coche1.getVelocidade());
@@ -29,7 +29,7 @@ public class Boletin6 {
         System.out.println("Ingrese la distancia con la tierra del satelite");
         double d=sc.nextDouble();
         Satelite satelite2=new Satelite(p,m,d);
-        satelite2.verPosicion();*/
+        satelite2.verPosicion();
         Circulo cir1=new Circulo();
         cir1.setRadio(5);
         System.out.println("El radio del triángulo es: "+cir1.getRadio()+ "\nEl área del círculo es: "+cir1.calcularArea()+"\nLa longitud del círculo es: "+cir1.calcularLonxitude());

@@ -8,7 +8,7 @@ import javax.swing.JOptionPane;
  * @author Alejandro Pereiro G
  */
 public class Numero {
-    public void darNumero(){
+    public void compararNumero(){
         float num1=leerNumero();
         float num2=leerNumero();
         float num3=leerNumero();

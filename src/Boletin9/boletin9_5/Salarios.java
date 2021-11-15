@@ -14,7 +14,7 @@ public class Salarios {
         int k=0;
         float por=0;
         float s=pedirSalario();
-        while(s<0||s>0){
+        while(s!=0){
             if(s<0){
             }
             else{

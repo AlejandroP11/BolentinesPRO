@@ -1,5 +1,5 @@
 
-package boletín2_5;
+package Boletin2;
 
 import java.util.Scanner;
 

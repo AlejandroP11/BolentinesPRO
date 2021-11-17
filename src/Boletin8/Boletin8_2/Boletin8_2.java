@@ -1,4 +1,4 @@
-package boletin8_2;
+package Boletin8.Boletin8_2;
 
 /**
  *

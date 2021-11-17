@@ -2,7 +2,7 @@ package Boletin9.Boletin9_1;
 import javax.swing.JOptionPane;
 
 public class ValorNum {
-    public void valores(){
+    public void darValor(){
         int j=0;
         int k=0;
         int cero=0;

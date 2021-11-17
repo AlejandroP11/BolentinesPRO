@@ -1,5 +1,5 @@
 
-package boletin9_2;
+package Boletin9.Boletin9_2;
 
 /**
  *

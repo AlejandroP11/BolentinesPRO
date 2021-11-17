@@ -1,5 +1,5 @@
 
-package boletin8_2;
+package Boletin8.Boletin8_2;
 
 import java.util.Scanner;
 import javax.swing.JOptionPane;

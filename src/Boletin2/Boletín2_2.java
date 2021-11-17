@@ -1,5 +1,5 @@
 
-package boletín2_2;
+package Boletin2;
 
 /**
  *

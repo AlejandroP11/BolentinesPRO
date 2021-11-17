@@ -1,5 +1,5 @@
 
-package boletin8_1;
+package Boletin8.boletin8_1;
 
 /**
  *

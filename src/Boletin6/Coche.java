@@ -1,5 +1,5 @@
 
-package boletin6;
+package Boletin6;
 
 /**
  * @author Alejandro Pereiro G

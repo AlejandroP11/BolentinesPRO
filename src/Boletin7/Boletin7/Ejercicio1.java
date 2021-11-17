@@ -1,5 +1,5 @@
 
-package boletin7;
+package Boletin7.Boletin7;
 
 import javax.swing.JOptionPane;
 

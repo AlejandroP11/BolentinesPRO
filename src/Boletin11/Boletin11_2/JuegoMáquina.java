@@ -14,7 +14,7 @@ public class JuegoMáquina {
         int i=0;
         int num=0;
         Random claseRandom=new Random();
-        int randomInt=claseRandom.nextInt(50-1);
+        int randomInt=1+claseRandom.nextInt(50-1);
         do{
             num=Integer.parseInt(JOptionPane.showInputDialog("Introduce un número"));
             if(num==randomInt)

@@ -12,6 +12,14 @@ public class Revista extends Publicacion {
         this.numero = numero;
     }
     @Override
+    public int getAño(){
+        return super.getAño();
+    }
+    @Override
+    public int getCodigo(){
+        return super.getCodigo();
+    }
+    @Override
     public String toString() {
         return super.toString()+ ", numero=" + numero ;
     }

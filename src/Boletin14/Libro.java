@@ -13,6 +13,14 @@ public class Libro extends Publicacion {
         super(codigo, titulo, año);
     }
     @Override
+    public int getAño(){
+        return super.getAño();
+    }
+    @Override
+    public int getCodigo(){
+        return super.getCodigo();
+    }
+    @Override
     public String toString() {
         return super.toString()+", prestado=" + prestado;
     }

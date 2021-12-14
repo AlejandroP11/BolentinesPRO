@@ -16,7 +16,6 @@ public class Notas {
     float notaEP;
     float notaFinal;
     String fin;
-    @SuppressWarnings("empty-statement")
     public void calcularNotaFinal(){
         do{
         float boletines=Float.parseFloat(JOptionPane.showInputDialog("Introduce el número de boletínes entregados: "));

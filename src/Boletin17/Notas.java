@@ -19,10 +19,10 @@ public class Notas {
     public void calcularNotaFinal(){
         do{
         float boletines=Float.parseFloat(JOptionPane.showInputDialog("Introduce el número de boletínes entregados: "));
-        boletines=boletines*100/16;
+        boletines=boletines*100/20;
         if(boletines>90)
             notab=2;
-        else if(boletines<=90||boletines>=70)
+        else if(boletines<=90&&boletines>=70)
             notab=1;
         else
             notab=0;

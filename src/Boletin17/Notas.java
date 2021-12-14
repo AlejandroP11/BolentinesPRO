@@ -28,9 +28,9 @@ public class Notas {
             notab=0;
         examen1=Float.parseFloat(JOptionPane.showInputDialog("Introduce la nota del primer examen"));
         examen2=Float.parseFloat(JOptionPane.showInputDialog("Introduce la nota del segundo examen"));
-        notaE=(float) ((examen1+examen2)*2/10);
+        notaE=(float) (((examen1+examen2)*2)*0.4);
         examenPrac=Float.parseFloat(JOptionPane.showInputDialog("Introduce la nota del examen práctico"));
-        notaEP=examenPrac*4/10;
+        notaEP= (float) (examenPrac*0.4);
         notaFinal=notab+notaE+notaEP;
         JOptionPane.showMessageDialog(null, "Tu nota final es: "+notaFinal);
         fin=JOptionPane.showInputDialog("¿Quieres calcular otra nota?");

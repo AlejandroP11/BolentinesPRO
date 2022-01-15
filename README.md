@@ -1,6 +1,6 @@
 ## Bolentines de Programación
-#Primera valiación
-![#f03c15]Boletín 2(https://github.com/AlejandroP11/BolentinesPRO/tree/master/src/PrimeraValiacion/Boletin2)
+# Primera valiación
+![#f03c15] Boletín 2 https://github.com/AlejandroP11/BolentinesPRO/tree/master/src/PrimeraValiacion/Boletin2
 Boletín 3
 Boletín 4
 Boletín 5

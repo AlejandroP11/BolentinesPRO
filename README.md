@@ -15,3 +15,4 @@ Boletín 15 https://github.com/AlejandroP11/BolentinesPRO/tree/master/src/Primer
 Boletín 17 https://github.com/AlejandroP11/BolentinesPRO/tree/master/src/PrimeraValiacion/Boletin17 <br/>
 ## Segunda Valiación
 Boletín 18 https://github.com/AlejandroP11/BolentinesPRO/tree/master/src/SegundaValiacion/Boletin18 <br/>
+Boletín 19 https://github.com/AlejandroP11/BolentinesPRO/tree/master/src/SegundaValiacion/Boletin19 <br/>

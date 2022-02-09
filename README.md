@@ -1,7 +1,6 @@
 # Bolentines de Programación
 <details>
 <summary>Primera Valiación</summary>
-<br/>
 <p><a href="https://github.com/AlejandroP11/BolentinesPRO/tree/master/src/PrimeraValiacion/Boletin2">Boletin 2</a><p>
 <p><a href="https://github.com/AlejandroP11/BolentinesPRO/tree/master/src/PrimeraValiacion/Boletin3">Boletin 3</a><p>
 <p><a href="https://github.com/AlejandroP11/BolentinesPRO/tree/master/src/PrimeraValiacion/Boletin4">Boletin 4</a><p>

@@ -15,7 +15,8 @@
 <p><a href="https://github.com/AlejandroP11/BolentinesPRO/tree/master/src/PrimeraValiacion/Boletin14">Boletin 14</a><p>
 <p><a href="https://github.com/AlejandroP11/BolentinesPRO/tree/master/src/PrimeraValiacion/Boletin15">Boletin 15</a><p>
 <p><a href="https://github.com/AlejandroP11/BolentinesPRO/tree/master/src/PrimeraValiacion/Boletin17">Boletin 17</a><p>
-
+</details>
+<details>
 <summary>Segunda Valiación</summary>
 <p><a href="https://github.com/AlejandroP11/BolentinesPRO/tree/master/src/PrimeraValiacion/Boletin18">Boletin 18</a><p>
 <p><a href="https://github.com/AlejandroP11/BolentinesPRO/tree/master/src/PrimeraValiacion/Boletin19">Boletin 19</a><p>

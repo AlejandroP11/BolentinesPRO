@@ -1,20 +1,25 @@
 # Bolentines de Programación
-## Primera Valiación
-Boletín 2 https://github.com/AlejandroP11/BolentinesPRO/tree/master/src/PrimeraValiacion/Boletin2 <br/>
-Boletín 3 https://github.com/AlejandroP11/BolentinesPRO/tree/master/src/PrimeraValiacion/Boletin3 <br/>
-Boletín 4 https://github.com/AlejandroP11/BolentinesPRO/tree/master/src/PrimeraValiacion/Boletin4 <br/>
-Boletín 5 https://github.com/AlejandroP11/BolentinesPRO/tree/master/src/PrimeraValiacion/Boletin5 <br/>
-Boletín 6 https://github.com/AlejandroP11/BolentinesPRO/tree/master/src/PrimeraValiacion/Boletin6 <br/>
-Boletín 7 https://github.com/AlejandroP11/BolentinesPRO/tree/master/src/PrimeraValiacion/Boletin7 <br/> 
-Boletín 8 https://github.com/AlejandroP11/BolentinesPRO/tree/master/src/PrimeraValiacion/Boletin8 <br/>
-Boletín 9 https://github.com/AlejandroP11/BolentinesPRO/tree/master/src/PrimeraValiacion/Boletin9 <br/>
-Boletín 11 https://github.com/AlejandroP11/BolentinesPRO/tree/master/src/PrimeraValiacion/Boletin11 <br/>
-Boletín 12 https://github.com/AlejandroP11/BolentinesPRO/tree/master/src/PrimeraValiacion/Boletin12 <br/>
-Boletín 14 https://github.com/AlejandroP11/BolentinesPRO/tree/master/src/PrimeraValiacion/Boletin14 <br/>
-Boletín 15 https://github.com/AlejandroP11/BolentinesPRO/tree/master/src/PrimeraValiacion/Boletin15 <br/>
-Boletín 17 https://github.com/AlejandroP11/BolentinesPRO/tree/master/src/PrimeraValiacion/Boletin17 <br/>
-## Segunda Valiación
-Boletín 18 https://github.com/AlejandroP11/BolentinesPRO/tree/master/src/SegundaValiacion/Boletin18 <br/>
-Boletín 19 https://github.com/AlejandroP11/BolentinesPRO/tree/master/src/SegundaValiacion/Boletin19 <br/>
-Boletín 20 https://github.com/AlejandroP11/BolentinesPRO/tree/master/src/SegundaValiacion/Boletin20 <br/>
-Boletín 21 https://github.com/AlejandroP11/BolentinesPRO/tree/master/src/SegundaValiacion/Boletin21 <br/>
+<details>
+<summary>Primera Valiación</summary>
+<br/>
+<p><a href="https://github.com/AlejandroP11/BolentinesPRO/tree/master/src/PrimeraValiacion/Boletin2">Boletin 2</a><p>
+<p><a href="https://github.com/AlejandroP11/BolentinesPRO/tree/master/src/PrimeraValiacion/Boletin3">Boletin 3</a><p>
+<p><a href="https://github.com/AlejandroP11/BolentinesPRO/tree/master/src/PrimeraValiacion/Boletin4">Boletin 4</a><p>
+<p><a href="https://github.com/AlejandroP11/BolentinesPRO/tree/master/src/PrimeraValiacion/Boletin5">Boletin 5</a><p>
+<p><a href="https://github.com/AlejandroP11/BolentinesPRO/tree/master/src/PrimeraValiacion/Boletin6">Boletin 6</a><p>
+<p><a href="https://github.com/AlejandroP11/BolentinesPRO/tree/master/src/PrimeraValiacion/Boletin7">Boletin 7</a><p>
+<p><a href="https://github.com/AlejandroP11/BolentinesPRO/tree/master/src/PrimeraValiacion/Boletin8">Boletin 8</a><p>
+<p><a href="https://github.com/AlejandroP11/BolentinesPRO/tree/master/src/PrimeraValiacion/Boletin9">Boletin 9</a><p>
+<p><a href="https://github.com/AlejandroP11/BolentinesPRO/tree/master/src/PrimeraValiacion/Boletin11">Boletin 11</a><p>
+<p><a href="https://github.com/AlejandroP11/BolentinesPRO/tree/master/src/PrimeraValiacion/Boletin12">Boletin 12</a><p>
+<p><a href="https://github.com/AlejandroP11/BolentinesPRO/tree/master/src/PrimeraValiacion/Boletin14">Boletin 14</a><p>
+<p><a href="https://github.com/AlejandroP11/BolentinesPRO/tree/master/src/PrimeraValiacion/Boletin15">Boletin 15</a><p>
+<p><a href="https://github.com/AlejandroP11/BolentinesPRO/tree/master/src/PrimeraValiacion/Boletin17">Boletin 17</a><p>
+
+<summary>Segunda Valiación</summary>
+<p><a href="https://github.com/AlejandroP11/BolentinesPRO/tree/master/src/PrimeraValiacion/Boletin18">Boletin 18</a><p>
+<p><a href="https://github.com/AlejandroP11/BolentinesPRO/tree/master/src/PrimeraValiacion/Boletin19">Boletin 19</a><p>
+<p><a href="https://github.com/AlejandroP11/BolentinesPRO/tree/master/src/PrimeraValiacion/Boletin20">Boletin 20</a><p>
+<p><a href="https://github.com/AlejandroP11/BolentinesPRO/tree/master/src/PrimeraValiacion/Boletin21">Boletin 21</a><p>
+<p><a href="https://github.com/AlejandroP11/BolentinesPRO/tree/master/src/PrimeraValiacion/Boletin23">Boletin 23</a><p> 
+</details>

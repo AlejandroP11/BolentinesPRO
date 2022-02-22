@@ -54,7 +54,6 @@ public class Libreria {
         }
         return lista;
     }
-    //Arreglar el amosar; no ordena los libros apropiadamente
     public static void amosar(ArrayList<Libro> lista){
         Collections.sort(lista, new Comparator<Libro>() {
             @Override

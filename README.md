@@ -24,4 +24,6 @@
 <p><a href="https://github.com/AlejandroP11/BolentinesPRO/tree/master/src/PrimeraValiacion/Boletin22">Boletin 22</a><p>
 <p><a href="https://github.com/AlejandroP11/BolentinesPRO/tree/master/src/PrimeraValiacion/Boletin23">Boletin 23</a><p>
 <p><a href="https://github.com/AlejandroP11/BolentinesPRO/tree/master/src/PrimeraValiacion/Boletin24">Boletin 24</a><p>
+<p><a href="https://github.com/AlejandroP11/BolentinesPRO/tree/master/src/PrimeraValiacion/Boletin25">Boletin 25</a><p>
+
 </details>

@@ -17,13 +17,15 @@
 </details>
 <details>
 <summary>Segunda Valiación</summary>
-<p><a href="https://github.com/AlejandroP11/BolentinesPRO/tree/master/src/PrimeraValiacion/Boletin18">Boletin 18</a><p>
-<p><a href="https://github.com/AlejandroP11/BolentinesPRO/tree/master/src/PrimeraValiacion/Boletin19">Boletin 19</a><p>
-<p><a href="https://github.com/AlejandroP11/BolentinesPRO/tree/master/src/PrimeraValiacion/Boletin20">Boletin 20</a><p>
-<p><a href="https://github.com/AlejandroP11/BolentinesPRO/tree/master/src/PrimeraValiacion/Boletin21">Boletin 21</a><p>
-<p><a href="https://github.com/AlejandroP11/BolentinesPRO/tree/master/src/PrimeraValiacion/Boletin22">Boletin 22</a><p>
-<p><a href="https://github.com/AlejandroP11/BolentinesPRO/tree/master/src/PrimeraValiacion/Boletin23">Boletin 23</a><p>
-<p><a href="https://github.com/AlejandroP11/BolentinesPRO/tree/master/src/PrimeraValiacion/Boletin24">Boletin 24</a><p>
+<p><a href="https://github.com/AlejandroP11/BolentinesPRO/tree/master/src/SegundaValiacion/Boletin18">Boletin 18</a><p>
+<p><a href="https://github.com/AlejandroP11/BolentinesPRO/tree/master/src/SegundaValiacion/Boletin19">Boletin 19</a><p>
+<p><a href="https://github.com/AlejandroP11/BolentinesPRO/tree/master/src/SegundaValiacion/Boletin20">Boletin 20</a><p>
+<p><a href="https://github.com/AlejandroP11/BolentinesPRO/tree/master/src/SegundaValiacion/Boletin21">Boletin 21</a><p>
+<p><a href="https://github.com/AlejandroP11/BolentinesPRO/tree/master/src/SegundaValiacion/Boletin22">Boletin 22</a><p>
+<p><a href="https://github.com/AlejandroP11/BolentinesPRO/tree/master/src/SegundaValiacion/Boletin23">Boletin 23</a><p>
+<p><a href="https://github.com/AlejandroP11/BolentinesPRO/tree/master/src/SegundaValiacion/Boletin24">Boletin 24</a><p>
+<p><a href="https://github.com/AlejandroP11/BolentinesPRO/tree/master/src/SegundaValiacion/Boletin25">Boletin 25</a><p>
+
 </details>
 <details>
 <summary>Tercera Valiación</summary>

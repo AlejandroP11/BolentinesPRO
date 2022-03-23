@@ -1,7 +1,9 @@
 
-package  SegundaValiacion.Boletin25;;
+package  SegundaValiacion.Boletin25;
 
-import LibreriaAlex.*;
+import Libreria.LeerDatos;
+import java.util.Iterator;
+
 import java.io.BufferedWriter;
 import java.io.File;
 import java.io.FileNotFoundException;
@@ -25,7 +27,7 @@ public class Metodos {
     
     public void escribirObjetos(String nombreFichero){
         try {
-            fich=new FileWriter(nombreFichero,true);
+            fich=new FileWriter(nombreFichero);
             es=new PrintWriter(fich);
             int agregar=LeerDatos.leerInt("Introduce el número de libros que deseas agregar");
             for(int i=0;i<agregar;i++){
@@ -82,7 +84,7 @@ public class Metodos {
             sc.close();
         }
     }
-        public void leer(String nombreFichero){
+    public void leer(String nombreFichero){
         try {
             File fich=new File(nombreFichero);
             String cadena;
@@ -92,10 +94,97 @@ public class Metodos {
                 System.out.println(cadena);
             }
         } catch (FileNotFoundException ex) {
-            System.out.println("Error 5 "+ex.getMessage());
+            System.out.println("Error de lectura "+ex.getMessage());
         }
         finally{
             sc.close();
+        }
+    }
+    public void borrar(String nombreFichero){
+        ArrayList<Libro>lista=new ArrayList<Libro>();
+        try {
+            String cadena;
+            File fic=new File(nombreFichero);
+            sc=new Scanner(fic);
+            while(sc.hasNextLine()){
+                cadena=sc.nextLine();
+                String[]linea=cadena.split("\\s*,\\s*");
+                l=new Libro(linea[0],linea[1],Float.parseFloat(linea[2]),Integer.parseInt(linea[3]));
+                if(l.getUnidades()>0)
+                    lista.add(l);
+                }
+            try {
+                fich=new FileWriter(nombreFichero);
+                es=new PrintWriter(fich);
+                for(Libro x:lista){
+                    es.print(x.getNombre()+", ");
+                    es.print(x.getAutor()+", ");
+                    es.print(x.getPrecio()+", ");
+                    es.println(x.getUnidades());
+                    }
+            System.out.println("Stock actualizado");                
+            } catch (IOException ex) {
+                System.out.println("Error de escritura"+ex.getMessage());
+            }
+        } catch (FileNotFoundException ex) {
+            System.out.println("Error de lectura"+ex.getMessage());
+        }
+        finally{
+            try {
+                es.close();
+                fich.close();
+                sc.close();
+            } catch (IOException ex) {
+                System.out.println("Error al cerrar el archivo"+ex.getMessage());
+            }
+        }
+    }
+    public void modificar(String nombreFichero, String delimitador){
+        ArrayList<Libro>lista=new ArrayList<Libro>();
+        try {
+            int si=0; //Si esta en 0 no se encontro
+            String cadena;
+            File fic=new File(nombreFichero);
+            sc=new Scanner(fic);
+            while(sc.hasNextLine()){
+                cadena=sc.nextLine();
+                String[]linea=cadena.split(delimitador);
+                l=new Libro(linea[0],linea[1],Float.parseFloat(linea[2]),Integer.parseInt(linea[3]));
+                lista.add(l);
+            }
+            try {
+                fich=new FileWriter(nombreFichero);
+                bf= new BufferedWriter(fich);
+                String bus=LeerDatos.leerString("Introduce el titulo del libro al que le quieres cambiar el precio");
+                Iterator<Libro>it=lista.iterator();
+                while(it.hasNext()){
+                    Libro li=it.next();
+                    if(li.getNombre().equals(bus)){
+                        li.setPrecio(LeerDatos.leerFloat("Introduce el nuevo precio del libro"));
+                        System.out.println("Actualizado el precio");
+                        si=1;
+                    }
+                    bf.write(li.getNombre()+", ");
+                    bf.write(li.getAutor()+", ");
+                    bf.write(li.getPrecio()+", ");
+                    bf.write(li.getUnidades()+"\n");
+                }
+                bf.close();
+                if(si==0)
+                    System.out.println("No contamos con ese libro en la libreria");
+            } catch (IOException ex) {
+                System.out.println("Error de escritura");
+            }
+        } catch (FileNotFoundException ex) {
+            System.out.println("Error de lectura"+ex.getMessage());
+        }
+        finally{
+            try {
+                fich.close();
+                sc.close();
+            } catch (IOException ex) {
+                System.out.println("Error al cerrar el archivo");
+            }
         }
     }
 }

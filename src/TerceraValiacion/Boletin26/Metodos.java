@@ -1,5 +1,5 @@
 
-package TerceraValiacion.boletin26;
+package TerceraValiacion.Boletin26;
 
 import javax.swing.JButton;
 import javax.swing.JFrame;

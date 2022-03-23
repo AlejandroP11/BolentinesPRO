@@ -1,5 +1,5 @@
 
-package TerceraValiacion.boletin26;
+package TerceraValiacion.Boletin26;
 
 /**
  *

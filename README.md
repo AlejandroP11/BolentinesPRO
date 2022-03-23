@@ -25,3 +25,7 @@
 <p><a href="https://github.com/AlejandroP11/BolentinesPRO/tree/master/src/PrimeraValiacion/Boletin23">Boletin 23</a><p>
 <p><a href="https://github.com/AlejandroP11/BolentinesPRO/tree/master/src/PrimeraValiacion/Boletin24">Boletin 24</a><p>
 </details>
+<details>
+<summary>Tercera Valiación</summary>
+<p><a href="https://github.com/AlejandroP11/BolentinesPRO/tree/master/src/TerceraValiacion/Boletin26">Boletin 26</a></p>
+</details>

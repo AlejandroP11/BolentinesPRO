@@ -29,8 +29,8 @@ public class Metodos {
             es=new PrintWriter(fich);
             int agregar=LeerDatos.leerInt("Introduce el número de libros que deseas agregar");
             for(int i=0;i<agregar;i++){
-                String t=LeerDatos.leerString("Introduce el titulo del libro");
-                String a=LeerDatos.leerString("Introduce el autor del libro");
+                String t=LeerDatos.leerStrting("Introduce el titulo del libro");
+                String a=LeerDatos.leerStrting("Introduce el autor del libro");
                 float p=LeerDatos.leerFloat("Introduce el precio del libro");
                 int u=LeerDatos.leerInt("Introduce el número de unidades del libro");
                 l=new Libro(t,a,p,u);
@@ -59,7 +59,7 @@ public class Metodos {
             File fich=new File(nombreFichero);
             sc=new Scanner(fich);
             Libro bus=new Libro();
-            bus.setNombre(LeerDatos.leerString("Introduce el titulo del libro que deseas buscar"));
+            bus.setNombre(LeerDatos.leerStrting("Introduce el titulo del libro que deseas buscar"));
             while(sc.hasNextLine()){
                 cadena=sc.nextLine();
                 String[]linea=cadena.split(delimitador);

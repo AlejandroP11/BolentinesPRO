@@ -30,4 +30,5 @@
 <details>
 <summary>Tercera Valiación</summary>
 <p><a href="https://github.com/AlejandroP11/BolentinesPRO/tree/master/src/TerceraValiacion/Boletin26">Boletin 26</a></p>
+<p><a href="https://github.com/AlejandroP11/BolentinesPRO/tree/master/src/TerceraValiacion/Boletin27">Boletin 27</a></p>
 </details>

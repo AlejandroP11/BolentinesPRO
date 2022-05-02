@@ -31,4 +31,7 @@
 <summary>Tercera Valiación</summary>
 <p><a href="https://github.com/AlejandroP11/BolentinesPRO/tree/master/src/TerceraValiacion/Boletin26">Boletin 26</a></p>
 <p><a href="https://github.com/AlejandroP11/BolentinesPRO/tree/master/src/TerceraValiacion/Boletin27">Boletin 27</a></p>
+<p><a href="https://github.com/AlejandroP11/BolentinesPRO/tree/master/src/TerceraValiacion/Boletin28">Boletin 28</a></p>
+<p><a href="https://github.com/AlejandroP11/BolentinesPRO/tree/master/src/TerceraValiacion/Boletin33">Boletin 33</a></p>
+<p><a href="https://github.com/AlejandroP11/BolentinesPRO/tree/master/src/TerceraValiacion/Boletin34">Boletin 34</a></p>
 </details>
